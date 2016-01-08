@@ -225,6 +225,7 @@ div#comments {
 	width: $rightwidth;
 }
 #back, #forth {
+	position: relative;
 	background-size: cover;
 	display: block;
 	text-align: center;
@@ -238,6 +239,15 @@ div#comments {
 }
 #back:hover, #forth:hover {
 	opacity: 1;
+}
+.backforthtitle {
+	position: absolute;
+	top: 0.3em;
+	right: 0.3em;
+	font-size: 0.1em;
+	font-weight: 900;
+	padding: 0.7em;
+	background-color: rgba(0,0,0,0.5)
 }
 .backforthlabel {
 	font-family: Symbola, $font-stack;
