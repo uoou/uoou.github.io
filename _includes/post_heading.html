@@ -1,0 +1,15 @@
+{% if page.layout == 'post' %}
+	{% assign post = page %}
+	{% capture link %}{{ site.baseurl }}/{% endcapture %}
+{% else %}
+	{% capture link %}{{ site.baseurl }}{{ post.url }}{% endcapture %}
+{% endif %}
+<a href="{{ link }}" class="featureimg" style="background-image: url({{ site.baseurl }}{{ post.image }}); backround-size: cover; background-position: center center;">
+	<div class="titles">
+		<h3>{{ post.title }}</h3>
+		{% if post.subtitle %}
+		<p>{{ post.subtitle }}</p>
+		{% endif %}
+	</div>
+</a>
+

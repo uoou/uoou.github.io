@@ -1,0 +1,27 @@
+---
+layout: default
+title: Ludic Linux
+---
+{% include site_header.html %}
+<section id="pagelist">
+	<ul id="pages">
+		{% for post in paginator.posts %}
+			<li>
+				<article>
+					{% include post_heading.html %}
+					{% include byline.html %}
+					<div class="excerpt">
+						{% if post.content contains '<!--more-->' %}
+    							{{ post.content | split:'<!--more-->' | first }}
+						{% else %}
+							{{ post.excerpt }}
+						{% endif %}
+					</div>
+				</article>
+				<hr />
+			</li>
+		{% endfor %}
+	</ul>
+</section>
+{% include pagination.html %}
+		

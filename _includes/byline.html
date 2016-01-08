@@ -1,0 +1,8 @@
+{% if site.authors[post.author] %}
+	{% assign name = site.authors[post.author].name %}
+	{% assign link = site.authors[post.author].link %}
+{% else %}
+	{% assign name = post.author %}
+	{% capture link %}{{ site.baseurl }}/{% endcapture %}
+{% endif %}
+<div class="byline">by <a href="{{ link }}">{{ name }}</a> on {{ post.date | date: '%B %d, %Y' }}</div>
