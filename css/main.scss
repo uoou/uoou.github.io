@@ -72,9 +72,20 @@ h1 {
 }
 h2 {
 	font-size: 1.5em;
+	&#commentshead {
+		margin: 2em 0 1em 0;
+	}
 }
 h3 {
 	font-size: 3em;
+}
+#bio {
+	hr {
+		margin-top: 5em;
+	}
+	ul {
+		list-style-type: none;
+	}
 }
 #comments, .caption {
 	font-size: 0.9em;

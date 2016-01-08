@@ -1,0 +1,15 @@
+{% if site.authors[post.author] %}
+	{% if site.authors[post.author].name != "Rounded Globe" %}
+		<section id="bio">
+			<h2>About {{ site.authors[post.author].name }}</h2> 
+			<p>{{ site.authors[post.author].bio }}
+			<h4>{{ site.authors[post.author].name }}'s Links:</h3>
+			<ul>
+			{% for link in site.authors[post.author].links %}
+			<li><a href="{{ link[1] }}">{{ link[0] }}</a></li>
+			{% endfor %}
+			</ul>
+			<hr></hr>
+		</section>
+	{% endif %}
+{% endif %}

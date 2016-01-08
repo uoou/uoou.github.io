@@ -43,6 +43,14 @@ authors:
         name: Rounded Globe 
         email: roundedglobe@gmail.com
         link: http://roundedglobe.com/
+    js:
+        name: Jason Schmitt
+        bio: "Professor/writer/blogger/speaker. I write for Huffington Post and Slate about new technology, startups, open access and higher education."
+        links:
+            Website: http://jasonschmitt.com/ 
+            Facebook: http://blah.com/
+            Google+: http://something.org/
+            Twitter: http://google.com/
 # !! You don't need to change any of the configuration flags below !!
 #
 

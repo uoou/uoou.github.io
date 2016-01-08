@@ -1,6 +1,6 @@
 {% if site.authors[post.author] %}
 	{% assign name = site.authors[post.author].name %}
-	{% assign link = site.authors[post.author].link %}
+	{% assign link = "#bio" %}
 {% else %}
 	{% assign name = post.author %}
 	{% capture link %}{{ site.baseurl }}/{% endcapture %}
