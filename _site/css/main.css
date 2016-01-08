@@ -177,6 +177,8 @@ div#comments {
 
 .backforthtitle {
   position: absolute;
+  text-align: right;
+  max-width: 80%;
   top: 0.3em;
   right: 0.3em;
   font-size: 0.1em;
@@ -255,8 +257,16 @@ code {
     width: 90%; }
 
   #backandforth {
-    width: 10%; } }
+    width: 10%; }
+
+  .backforthtitle {
+    font-size: 0.07em;
+    max-width: 70%; } }
 @media screen and (max-width: 950px) {
+  .backforthtitle {
+    font-size: 0.1em;
+    max-width: 80%; }
+
   #leftcontainer {
     width: 100%; }
 
