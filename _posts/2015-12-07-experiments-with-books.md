@@ -4,11 +4,7 @@ image: books2_header.jpg
 author: rg
 ---
 
-
-
-
-
-**Rounded Globe** produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.
+[**Rounded Globe**](http://roundedglobe.com/) produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.
 
 As such, Rounded Globe follows the commercial ebook format rather than the conventional format of academic publishing, which rests on the .pdf file - essentially, a photographic image of a traditional printed page.
 

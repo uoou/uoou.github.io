@@ -4,7 +4,7 @@
  <title>Rounded Globe</title>
  <link href="http://roundedglobe.github.io/blog//atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/blog//"/>
- <updated>2016-01-08T05:10:08+00:00</updated>
+ <updated>2016-01-08T05:35:54+00:00</updated>
  <id>http://roundedglobe.github.io/blog/</id>
  
  <author>
@@ -19,7 +19,7 @@
    <link href="http://roundedglobe.github.io/blog//experiments-with-books/"/>
    <updated>2015-12-07T00:00:00+00:00</updated>
    <id>http://roundedglobe.github.io/blog//experiments-with-books</id>
-   <content type="html">&lt;p&gt;&lt;strong&gt;Rounded Globe&lt;/strong&gt; produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.&lt;/p&gt;
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://roundedglobe.com/&quot;&gt;&lt;strong&gt;Rounded Globe&lt;/strong&gt;&lt;/a&gt; produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.&lt;/p&gt;
 
 &lt;p&gt;As such, Rounded Globe follows the commercial ebook format rather than the conventional format of academic publishing, which rests on the .pdf file - essentially, a photographic image of a traditional printed page.&lt;/p&gt;
 

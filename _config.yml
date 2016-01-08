@@ -29,6 +29,9 @@ links:
     Twitter:
         url: https://twitter.com/roundedglobe
         image: twitter_icon.png
+    Facebook:
+        url: https://www.facebook.com/roundedglobe
+        image: facebook_icon.png
     Atom Feed:
         url: /atom.xml 
         image: atom_icon.png
@@ -39,6 +42,7 @@ authors:
     rg:
         name: Rounded Globe 
         email: roundedglobe@gmail.com
+        link: http://roundedglobe.com/
 # !! You don't need to change any of the configuration flags below !!
 #
 
