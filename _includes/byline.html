@@ -5,4 +5,8 @@
 	{% assign name = post.author %}
 	{% capture link %}{{ site.baseurl }}/{% endcapture %}
 {% endif %}
+{% if page.id %}
 <div class="byline">by <a href="{{ link }}">{{ name }}</a> on {{ post.date | date: '%B %d, %Y' }}</div>
+{% else %}
+<div class="byline">by <strong>{{ name }}</strong> on {{ post.date | date: '%B %d, %Y' }}</div>
+{% endif %}
