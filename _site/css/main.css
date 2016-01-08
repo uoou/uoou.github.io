@@ -15,7 +15,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #ab004c; }
+  color: #0099ab; }
   a:hover {
     text-decoration: underline; }
   a.featureimg:hover {
@@ -66,7 +66,7 @@ header {
       margin-right: 0.25em;
       width: 0.8em;
       height: 0.8em;
-      background-color: #ab004c; }
+      background-color: #0099ab; }
   header nav {
     text-align: right; }
     header nav ul {
@@ -81,7 +81,7 @@ header {
           width: 35px;
           height: 35px; }
         header nav ul li img:hover {
-          background-color: #ab004c; }
+          background-color: #0099ab; }
 
 section#pagelist ul#pages {
   list-style: none;
@@ -187,8 +187,8 @@ div#comments {
 hr {
   margin: 0 auto;
   width: 100%;
-  color: #ab004c;
-  background-color: #ab004c;
+  color: #0099ab;
+  background-color: #0099ab;
   border-width: 0;
   height: 1px;
   opacity: 0.1; }
@@ -196,7 +196,7 @@ hr {
     margin: 3em 0; }
 
 blockquote {
-  border-left: 5px solid #ab004c;
+  border-left: 5px solid #0099ab;
   margin-left: 3em;
   padding-left: 1em; }
 

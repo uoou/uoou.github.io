@@ -1,5 +1,6 @@
 ---
 published: true
+image: books2_header.jpg
 author: rg
 ---
 

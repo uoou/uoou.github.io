@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Ludic Linux</title>
- <link href="http://ludiclinux.com/atom.xml" rel="self"/>
- <link href="http://ludiclinux.com/"/>
- <updated>2016-01-08T03:17:33+00:00</updated>
- <id>http://ludiclinux.com</id>
+ <title>Rounded Globe</title>
+ <link href="http://roundedglobe.github.io/blog//atom.xml" rel="self"/>
+ <link href="http://roundedglobe.github.io/blog//"/>
+ <updated>2016-01-08T05:04:56+00:00</updated>
+ <id>http://roundedglobe.github.io/blog/</id>
  
  <author>
-   <name>Piento</name>
-   <email>uo.is.ou+ludic@gmail.com</email>
+   <name>Rounded Globe</name>
+   <email>roundedglobe@gmail.com</email>
  
  </author>
 
  
  <entry>
    <title>Experiments With Books</title>
-   <link href="http://ludiclinux.com/experiments-with-books/"/>
+   <link href="http://roundedglobe.github.io/blog//experiments-with-books/"/>
    <updated>2015-12-07T00:00:00+00:00</updated>
-   <id>http://ludiclinux.com/experiments-with-books</id>
+   <id>http://roundedglobe.github.io/blog//experiments-with-books</id>
    <content type="html">&lt;p&gt;&lt;strong&gt;Rounded Globe&lt;/strong&gt; produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.&lt;/p&gt;
 
 &lt;p&gt;As such, Rounded Globe follows the commercial ebook format rather than the conventional format of academic publishing, which rests on the .pdf file - essentially, a photographic image of a traditional printed page.&lt;/p&gt;
@@ -41,9 +41,9 @@
  
  <entry>
    <title>Academic Book Week &amp; Rounded Globe</title>
-   <link href="http://ludiclinux.com/academic-book-week-&-Rounded-Globe/"/>
+   <link href="http://roundedglobe.github.io/blog//academic-book-week-&-Rounded-Globe/"/>
    <updated>2015-11-11T00:00:00+00:00</updated>
-   <id>http://ludiclinux.com/academic-book-week-&-Rounded-Globe</id>
+   <id>http://roundedglobe.github.io/blog//academic-book-week-&-Rounded-Globe</id>
    <content type="html">&lt;p&gt;Welcome to the new Rounded Globe blog. Our first post is a short contribution to the various musings and articles posted online regarding the future of scholarly publications during &lt;strong&gt;Academic Book Week&lt;/strong&gt; (9th – 16th Nov 2015).&lt;/p&gt;
 
 &lt;p&gt;Traditionally, academic books were printed monographs: extensive pieces of research, frequently written primarily for specialist audiences in discipline specific jargon. In recent times, though printed books are still popular with many, there has been a huge increase in the number of e-books in academic collections and libraries.&lt;/p&gt;

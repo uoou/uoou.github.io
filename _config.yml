@@ -1,6 +1,6 @@
-name: Ludic Linux
-description: Ludic Linux 
-url: http://ludiclinux.com
+name: Rounded Globe
+description: Rounded Globe 
+url: http://roundedglobe.github.io/blog/
 baseurl: ""
 imagedir: "/images/"
 defaults:
@@ -9,8 +9,9 @@ defaults:
             path: ""
             type: "posts"
         values:
-            comments: false
+            comments: true
             layout: post
+            image: books_header.jpg
     -   
         scope:
             path: ""
@@ -24,28 +25,20 @@ paginate_path: "/:num"
 links:
     Home:
         url: /
-        image: /images/emblem.png
-    Readme:
-        url: https://github.com/LudicLinux/LudicLinux.github.io/blob/master/README.md
-        image: /images/about_icon.png
-    Contact:
-        url: mailto:uo.is.ou+ludic@gmail.com 
-        image: /images/email_icon.png
+        image: emblem.png
+    Twitter:
+        url: https://twitter.com/roundedglobe
+        image: twitter_icon.png
     Atom Feed:
         url: /atom.xml 
-        image: /images/atom_icon.png
-    GitHub:
-        url: https://github.com/LudicLinux/LudicLinux.github.io 
-        image: /images/githube_icon.png
+        image: atom_icon.png
+    Rounded Globe:
+        url: http://roundedglobe.com/
+        image: rg_icon.png
 authors:
-    uoou:
-        name: Piento 
-        link: http://steamcommunity.com/id/uoou/ 
-        email: uo.is.ou+ludic@gmail.com
-    qN:
-        name: "qptain Nemo"
-        link: http://lazyandsleepy.org
-        email: qptainnemo@gmail.com
+    rg:
+        name: Rounded Globe 
+        email: roundedglobe@gmail.com
 # !! You don't need to change any of the configuration flags below !!
 #
 
