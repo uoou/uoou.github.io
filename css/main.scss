@@ -23,10 +23,12 @@ $rightwidth-medium:	20%;
 $leftwidth-small: 	90%;
 $rightwidth-small:	10%;
 .textbg {
-		text-shadow: 0 0 10px rgba(0,0,0,0.5);
-		display: inline-block;
-		//padding: 0.5em;
-		//background-color: rgba(38,0,17,0.15);
+	display: inline-block;
+	//padding: 0.5em;
+	//background-color: rgba(38,0,17,0.15);
+}
+.textshadow {
+	text-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 body {
 	font-family: $font-stack;
@@ -85,6 +87,7 @@ h3 {
 	}
 	ul {
 		list-style-type: none;
+		padding-left: 0;
 	}
 }
 #comments, .caption {
@@ -163,16 +166,35 @@ div.excerpt, div#postcontent {
 div.excerpt {
 	margin-top: 1em;
 }
+
 article {
 	padding-bottom: 3em;
-	a.featureimg {
-		display: block;
+	div.featureimg {
+		position: absolute;
 		width: 100%;
-		margin-top: 1em;
+		height: 100%;
+		background-size: cover;
+		//background-position: center center;
+		transition: all .4s ease-in-out;
+		transform: scale(1,1);
+		z-index: -1;
+	}
+	.headingcont {
+		display: block;
+		position: relative;
+		overflow: hidden;
+		width: 100%;
+		height: 100%;
+		&:hover > div.featureimg {
+			transform: scale(1.1,1.1);
+		}
 		div.titles {
 			line-height: 3em;
-			@extend .textbg;
 			margin: 8.3em 0 0.8em 2em;
+			@extend .textbg;
+			h3 {
+				@extend .textshadow;
+			}
 		}
 		h3, p {
 			color: #fff;
@@ -185,11 +207,12 @@ article {
 			padding: 1em;
 			line-height: 1.2em;
 			margin-top: 0.5em;
-			background-color: rgba(0,0,0,0.4);
+			background-color: rgba(0,0,0,0.5);
 		}
+
 	}
 	&#post {
-		a.featureimg {
+		.headingcont {
 			div.titles {
 				margin: 20em 0 1.6em 2em;
 			}
@@ -243,6 +266,9 @@ div#comments {
 #back, #forth {
 	position: relative;
 	background-size: cover;
+	background-position: center center;
+	background-repeat: no-repeat;
+	overflow: hidden;
 	display: block;
 	text-align: center;
 	height: 50%;
@@ -251,10 +277,23 @@ div#comments {
 	text-decoration: none;
 	font-size: 10em;
 	color: #fff;
-	opacity: 0.8;
+	div.bg {
+		position: absolute;
+		width: 100%;
+		height: 100%;
+		background-size: cover;
+		transition: all .4s ease-in-out;
+		transform: scale(1,1);
+		opacity: 0.8;
+		z-index: -1;
+	}
+	&:hover > div.bg {
+		transform: scale(1.1,1.1);
+		opacity: 1;
+	}
 }
 #back:hover, #forth:hover {
-	opacity: 1;
+	//opacity: 1;
 }
 .backforthtitle {
 	position: absolute;
@@ -388,21 +427,21 @@ code {
 		}
 	}
 	article, article#post {
-		a.featureimg {
+		.headingcont {
 			div.titles {
 				margin: 8em 0 1em 0.5em;
 			}
 		}
 	}
 	article#post {
-		a.featureimg {
+		.headingcont {
 			div.titles {
 				margin-top: 15em;
 			}
 		}
 	}
 	article {
-		a.featureimg {
+		.headingcont {
 			h3 {
 				font-size: 2em;
 				line-height: 1em;

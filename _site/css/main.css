@@ -1,7 +1,9 @@
 @charset "UTF-8";
-.textbg, article a.featureimg div.titles {
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+.textbg, article .headingcont div.titles {
   display: inline-block; }
+
+.textshadow, article .headingcont div.titles h3 {
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); }
 
 body {
   font-family: Ubuntu, Calibri, sans-serif;
@@ -47,7 +49,8 @@ h3 {
 #bio hr {
   margin-top: 5em; }
 #bio ul {
-  list-style-type: none; }
+  list-style-type: none;
+  padding-left: 0; }
 
 #comments, .caption {
   font-size: 0.9em; }
@@ -111,27 +114,39 @@ div.excerpt {
 
 article {
   padding-bottom: 3em; }
-  article a.featureimg {
-    display: block;
+  article div.featureimg {
+    position: absolute;
     width: 100%;
-    margin-top: 1em; }
-    article a.featureimg div.titles {
+    height: 100%;
+    background-size: cover;
+    transition: all .4s ease-in-out;
+    transform: scale(1, 1);
+    z-index: -1; }
+  article .headingcont {
+    display: block;
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    height: 100%; }
+    article .headingcont:hover > div.featureimg {
+      transform: scale(1.1, 1.1); }
+    article .headingcont div.titles {
       line-height: 3em;
       margin: 8.3em 0 0.8em 2em; }
-    article a.featureimg h3, article a.featureimg p {
+    article .headingcont h3, article .headingcont p {
       color: #fff;
       margin: 0 0 0 0; }
-    article a.featureimg p {
+    article .headingcont p {
       display: block;
       font-size: 0.9em;
       margin-right: 2em;
       padding: 1em;
       line-height: 1.2em;
       margin-top: 0.5em;
-      background-color: rgba(0, 0, 0, 0.4); }
-  article#post a.featureimg div.titles {
+      background-color: rgba(0, 0, 0, 0.5); }
+  article#post .headingcont div.titles {
     margin: 20em 0 1.6em 2em; }
-  article#post a.featureimg p {
+  article#post .headingcont p {
     display: none; }
 
 div#postcontent {
@@ -173,6 +188,9 @@ div#comments {
 #back, #forth {
   position: relative;
   background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  overflow: hidden;
   display: block;
   text-align: center;
   height: 50%;
@@ -180,11 +198,19 @@ div#comments {
   width: 100%;
   text-decoration: none;
   font-size: 10em;
-  color: #fff;
-  opacity: 0.8; }
-
-#back:hover, #forth:hover {
-  opacity: 1; }
+  color: #fff; }
+  #back div.bg, #forth div.bg {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    transition: all .4s ease-in-out;
+    transform: scale(1, 1);
+    opacity: 0.8;
+    z-index: -1; }
+  #back:hover > div.bg, #forth:hover > div.bg {
+    transform: scale(1.1, 1.1);
+    opacity: 1; }
 
 .backforthtitle {
   position: absolute;
@@ -300,16 +326,16 @@ code {
     width: 50px;
     height: 50px; }
 
-  article a.featureimg div.titles, article#post a.featureimg div.titles {
+  article .headingcont div.titles, article#post .headingcont div.titles {
     margin: 8em 0 1em 0.5em; }
 
-  article#post a.featureimg div.titles {
+  article#post .headingcont div.titles {
     margin-top: 15em; }
 
-  article a.featureimg h3 {
+  article .headingcont h3 {
     font-size: 2em;
     line-height: 1em; }
-  article a.featureimg p {
+  article .headingcont p {
     font-size: 0.8em; }
 
   blockquote, code {
