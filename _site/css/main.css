@@ -46,9 +46,9 @@ h2 {
 h3 {
   font-size: 3em; }
 
-#bio hr {
-  margin-top: 5em; }
-#bio ul {
+#bio hr, #sharelinks hr {
+  margin: 5em 0 3em 0; }
+#bio ul, #sharelinks ul {
   list-style-type: none;
   padding-left: 0; }
 
@@ -87,11 +87,20 @@ header {
         padding: 0; }
         header nav ul li img {
           margin-left: 0.1em;
+          padding: 0.4em;
           background-color: #ccc;
-          width: 35px;
-          height: 35px; }
-        header nav ul li img:hover {
+          width: 2em;
+          height: 2em;
+          transition: .2s; }
+        header nav ul li a:hover > img {
           background-color: #0099ab; }
+      header nav ul li#rglink img {
+        padding: 0;
+        width: 2.8em;
+        height: 2.8em;
+        opacity: 0.8; }
+      header nav ul li#rglink a:hover > img {
+        opacity: 1; }
 
 section#pagelist ul#pages {
   list-style: none;
@@ -280,6 +289,33 @@ code {
   width: 100%;
   height: 100%; }
 
+ul#share {
+  padding: 0; }
+  ul#share li {
+    display: inline; }
+  ul#share a {
+    display: inline-block;
+    background-size: contain;
+    width: 3em;
+    height: 3em;
+    opacity: 0.8;
+    margin-right: 0.5em;
+    transition: .3s; }
+    ul#share a#tw {
+      background-color: #55acee;
+      border: 0.5em solid #55acee;
+      background-image: url("/images/twitter_icon.png"); }
+    ul#share a#fb {
+      background-color: #3b5998;
+      border: 0.5em solid #3b5998;
+      background-image: url("/images/facebook_icon.png"); }
+    ul#share a#go {
+      background-color: #dd4b39;
+      border: 0.5em solid #dd4b39;
+      background-image: url("/images/gplus_icon.png"); }
+    ul#share a:hover {
+      opacity: 1; }
+
 @media screen and (max-width: 1600px) {
   #leftcontainer {
     width: 80%; }
@@ -323,8 +359,11 @@ code {
   header h1#maintitle {
     font-size: 3em; }
   header nav ul li img {
-    width: 50px;
-    height: 50px; }
+    width: 3em;
+    height: 3em; }
+  header nav ul li#rglink img {
+    width: 3.8em;
+    height: 3.8em; }
 
   article .headingcont div.titles, article#post .headingcont div.titles {
     margin: 8em 0 1em 0.5em; }
