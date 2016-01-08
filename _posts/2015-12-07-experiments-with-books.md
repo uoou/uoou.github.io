@@ -1,6 +1,7 @@
 ---
 published: true
 image: books2_header.jpg
+description: "Welcome to the new Rounded Globe blog. <br /><br />Our first post is a short contribution to the various musings and articles posted online regarding the future of scholarly publications during <strong>Academic Book Week</strong> (9th – 16th Nov 2015)."
 author: rg
 ---
 

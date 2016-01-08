@@ -10,13 +10,6 @@ title: Rounded Bloge
 				<article>
 					{% include post_heading.html %}
 					{% include byline.html %}
-					<div class="excerpt">
-						{% if post.content contains '<!--more-->' %}
-    							{{ post.content | split:'<!--more-->' | first }}
-						{% else %}
-							{{ post.excerpt }}
-						{% endif %}
-					</div>
 				</article>
 				<hr />
 			</li>

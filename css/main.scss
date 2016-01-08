@@ -168,17 +168,22 @@ article {
 			margin: 0 0 0 0;
 		}
 		p {
+			display: block;
 			font-size: 0.9em;
-			line-height: 0.9em;
-			font-style: oblique;
-			font-weight: 900;
-			margin-top: -0.05em;
+			margin-right: 2em;
+			padding: 1em;
+			line-height: 1.2em;
+			margin-top: 0.5em;
+			background-color: rgba(0,0,0,0.4);
 		}
 	}
 	&#post {
 		a.featureimg {
 			div.titles {
-				margin: 28.2em 0 1.6em 2em;
+				margin: 20em 0 1.6em 2em;
+			}
+			p {
+				display: none;
 			}
 		}
 	}
