@@ -1,5 +1,6 @@
 ---
 published: false
+author: Jason Schmitt
 ---
 
 ## Can’t Disrupt This: Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
