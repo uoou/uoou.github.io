@@ -2,7 +2,7 @@
 published: true
 author: jschmitt
 image: books_header.jpg
-descrption: Disrupting the huge profits of academic publishers requires new 'basement market' strategies.
+description: Disrupting the huge profits of academic publishers requires new 'basement market' strategies.
 ---
 
 
