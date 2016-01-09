@@ -4,13 +4,14 @@ author: Jason Schmitt
 ---
 
 
+
 ## Can’t Disrupt This: Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
 
 Twenty years ago ([December 18, 1995](http://www.scribd.com/doc/292346391/Forbes-Elsevier-1995)), Forbes predicted academic publisher Elsevier’s relevancy and life in the digital age to be short lived. In an article entitled “The internet’s first victim,” journalist John Hayes highlights the technological imperative coming toward the academic publisher’s profit margin with the growing internet culture and said, “Cost-cutting librarians and computer-literate professors are bypassing academic journals — bad news for Elsevier.” After publication of the article, investors seemed to heed Hayes’s rationale for Elsevier’s impeding demise. Elsevier stock fell 7% in two days to $26 a share.
 
 As the smoke settles twenty years later, one of the clear winners on this longitudinal timeline of innovation is the very firm that investors, journalists, and forecasters wrote off early as a casualty to digital evolution: Elsevier. Perhaps to the chagrin of many academics, the publisher has actually not been bruised nor battered. In fact, the publisher’s health is stronger than ever. As of 2015, the academic publishing market that Elsevier leads has an annual revenue of [$25.2 billion](http://www.stm-assoc.org/2015_02_20_STM_Report_2015.pdf). According to its 2013 financials [Elsevier](http://poeticeconomics.blogspot.co.il/2014/03/elsevier-stm-publishing-profits-rise-to.html) had a higher percentage of profit than [Apple, Inc.](http://www.apple.com/pr/library/2013/10/28Apple-Reports-Fourth-Quarter-Results.html)
 
-![Schmitt1.jpeg]({{site.baseurl}}/_posts/Schmitt1.jpeg)
+![](/images/Schmitt1.jpeg)
 
 Brian Nosek, a professor at the University of Virginia and director of the Center for Open Science, says, “Academic publishing is the perfect business model to make a lot of money. You have the producer and consumer as the same person: the researcher. And the researcher has no idea how much anything costs.” Nosek finds this whole system is designed to maximize the amount of profit. “I, as the researcher, produce the scholarship and I want it to have the biggest impact possible and so what I care about is the prestige of the journal and how many people read it. Once it is finally accepted, since it is so hard to get acceptances, I am so delighted that I will sign anything — send me a form and I will sign it. I have no idea I have signed over my copyright or what implications that has — nor do I care, because it has no impact on me. The reward is the publication.”
 
@@ -23,7 +24,8 @@ Heather Morrison, a professor in the School of Information Studies at the Univer
 Should a consumer heed Morrison’s rationale and want to look deeper into academic publishers cost structure for themselves one is met with a unique situation: the pricing lists for journals do not exist. “It’s because they negotiate individually with each institution and they often have non-disclosure agreements with those institutions so they can’t bargain with knowing what others paid,” says Martin Eve, founder of the Open Library of the Humanities.
 
 In addition to a general lack of pricing indexes, the conversation around the value of a publication is further complicated by long-term career worth. David Sundahl, a senior research fellow at the Clayton Christensen Institute for Disruptive Innovation, says, “We actually understand how money passed through to artists who wrote music and authors who wrote books — but it is not clear how the value of a publication in a top tier journal will impact someone’s career. Unlike songs or books where the royalty structure is defined, writing a journal article is not clear and is dependent not on the people who consume the information but rather deans and tenure committees.”
-![Schmitt2.jpeg]({{site.baseurl}}/_posts/Schmitt2.jpeg)
+
+![](/images/Schmitt2.jpeg)
 
 ##Disruption Doable?
 
