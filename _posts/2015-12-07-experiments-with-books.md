@@ -2,7 +2,7 @@
 published: true
 image: books2_header.jpg
 description: "Welcome to the new Rounded Globe blog. <br /><br />Our first post is a short contribution to the various musings and articles posted online regarding the future of scholarly publications during <strong>Academic Book Week</strong> (9th – 16th Nov 2015)."
-author: js 
+author: rg 
 ---
 
 [**Rounded Globe**](http://roundedglobe.com/) produces scholarly ebooks that can be read on kindles and tablets. Our ebooks are generated as .epub and .mobi files by an automatic process (designed by our chief technical wizard, Andrew Holgate). At the core of the compiled ebook is a simple .txt file, written in markdown (as is this blog post) and containing the body of the essay.
