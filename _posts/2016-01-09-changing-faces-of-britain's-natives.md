@@ -52,6 +52,3 @@ Going up to Oxford in 1911, Tolkien as an undergraduate probably attended Rhys�
 ‘Bag End’. Photo: [Christopher Wagner](https://www.flickr.com/photos/cwagner33/16412701584/in/photolist-r1konw-f1vrhZ-r9T7na-gSUGYy-fmydgt-oFniqm-qXCt91-eTWhEj-gQcA7v-dW2JCm-nkC5Az-nnouXK-dW2ydC-dTYvrS-qwwRR-rV3eUY-kwR9Kt-78p8QM-kz4UY4-meQa1g-AYZ1kw-7p1Q5Z-rNagXL-5Dke6x-qJhsWF-2bFs5Y-dBstuz-dBxTow-rXvrG5-o6h9pM-dW2C1A-33BvLu-bxVL-ooUeXN-dMMizo-gcABdA-gcxSvr-rXyuCP-rFbrFe-rPZsi5-rhsYc-5vDr9z-gLP9h9-4aysoZ-qFY2N4-rmbW7C-qX9auA-qXdT6B-qZsMSU-nJM8Qs). Creative commons license.
 
 But if Tolkien first stumbled upon a hobbit hole whilst reading Rhys’ lecture, it seems likely that his imagination drew also upon Buchan’s depiction of Britain’s natives as subhuman trolls. Certainly, John Buchan was one of Tolkien’s favourite authors. Of course, Bilbo’s hole under the hill is snug and comfortable; the encounter with a ‘hideous existence’ within a ‘hill refuge’ described by Buchan finds its counterpart, not at Bag End, but in that cave deep within the Misty Mountains into which had wormed his way, long ages ago, ‘a small slimy creature’ called Gollum.
-
-
-
