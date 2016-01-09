@@ -2,7 +2,7 @@
 published: true
 author: sjcook
 image: cook_header.jpg
-description: How Gollum and Bilbo Baggins emerged out of Edwardian investigations of prehistory.
+description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric scholarship.
 ---
 
 
