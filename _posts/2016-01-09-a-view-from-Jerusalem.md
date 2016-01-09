@@ -2,7 +2,7 @@
 published: true
 author: gstroumsa
 image: zeevveez_header.jpg
-descrption: A reflection on the state of the humanities in light of the view from the windows of the Hebrew University of Jerusalem.
+description: A reflection on the state of the humanities in light of the view from the windows of the Hebrew University of Jerusalem.
 ---
 
 _An abridged version of a talk by Guy Stroumsa at a conference held in his honour in Jerusalem_:
