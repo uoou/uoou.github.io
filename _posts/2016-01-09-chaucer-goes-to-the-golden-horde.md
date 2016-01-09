@@ -2,7 +2,7 @@
 published: true
 author: bhammond
 image: hammond_header.jpg
-descrption: What did Chaucer know or care about a Tartar khan at Saray and his court?
+description: What did Chaucer know or care about a Tartar khan at Saray and his court?
 ---
 
 Chaucer set his _Squire’s Tale_ at ‘Sarray, in the land of Tartarye’ – that is, Saray, city of the Golden Horde Mongols, Jochi’s _ulus_, above the Black and Caspian Seas. What did Chaucer know or care about a Tartar khan at Saray and his court?
