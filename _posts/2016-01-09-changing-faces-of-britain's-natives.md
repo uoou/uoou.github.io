@@ -16,12 +16,12 @@ In the first section of my Rounded Globe essay on [_J.R.R. Tolkien's Lost Englis
 Compare the primitive Britons above, barefoot and attired in rude animal skins, with the blond giants below. Although this second picture was published earlier, it embodies a newer kind of historical thinking. These iron-age warriors are still Britons, but they are no longer natives.
 
 ![](/images/Cook2.jpg)
-From: [Beric the Briton. A Story of the Roman Invasion](https://archive.org/details/bericthebriton00hentrich), by G.A. Henty, illustrator unknown (London, 1893).
+Picture from: [Beric the Briton. A Story of the Roman Invasion](https://archive.org/details/bericthebriton00hentrich), by G.A. Henty, illustrator unknown (London, 1893).
 
 For much of the nineteenth century it was assumed that Britain had been settled for only a few generations before the coming of the Romans. But this view became untenable after 1877 and the publication of Canon William Greenwell’s _British Barrows_. From his meticulous and extensive archaeological excavations, Greenwell drew the conclusion that prehistoric long barrows were not only older than round barrows, but had been built by a different people.
 
 ![](/images/Cook3.jpg)
-From: [British Barrows. A record of the examination of the sepulchral mounds in various parts of England](https://archive.org/details/britishbarrowsre00gree), by W. Greenwell (Oxford, 1877).
+Image from: [British Barrows. A record of the examination of the sepulchral mounds in various parts of England](https://archive.org/details/britishbarrowsre00gree), by W. Greenwell (Oxford, 1877).
 
 After Greenwell it was generally accepted that the Celtic-speaking Britons, the supposed makers of the round barrows, had intruded upon an earlier population. The result was the rehabilitation of the Britons: no longer the passive victims of history, conquered and pushed aside by more vigorous peoples, the Britons became invading immigrants in their own right – ancient barbarians, maybe, yet virtuous and worthy ancestors for the modern British. In the caption of the second picture above the leading Briton declares: ‘Tell Suetonius that we scorn his mercy and will die as we have lived, free men.’
 
@@ -30,7 +30,7 @@ Who, then, were the newly discovered natives? With precious little archaeologica
 In 1900 John Rhys, the first Oxford Professor of Celtic, delivered the presidential address to the Anthropology section of the [British Association for the Advancement of Science](https://archive.org/details/reportofbritisha00scie). His chosen theme was the value of folk tales for the study of the ancient past, and he argued that behind the ‘rabble of divinities and demons’ who disport themselves in Celtic folklore it is possible to discern the succession of peoples who have inhabited the British Isles. Welsh fairy stories, according to Rhys, contained dim memories of the native population encountered by the first Celtic-speaking intruders. The real ‘little people’, he inferred, had been ‘a small swarthy population of mound-dwellers, of an unwarlike disposition... and living underground’.
  
 ![](/images/Cook4.jpg)
-From: [John Buchan’s The Watcher by the Threshold](https://archive.org/details/watcherbythresho00buchuoft) (London, 1902).
+Picture from the cover of [John Buchan’s The Watcher by the Threshold](https://archive.org/details/watcherbythresho00buchuoft) (London, 1902).
 
 Rhys’ ideas seem to have sparked the imagination of a couple of young minds. John Buchan went up to Oxford in 1895. His short story ‘No-Man’s-Land’, which appeared in print seven years later, tells the dreadful story of an Oxford scholar of Northern Antiquities (like Rhys perhaps, or one of his students), who holidays in the remote Highlands of Scotland, where he encounters – and is  taken captive by – ‘the Hidden People’:
 
@@ -48,7 +48,6 @@ Going up to Oxford in 1911, Tolkien as an undergraduate probably attended Rhys�
 
 > appear from the outside like hillocks covered with grass, so as presumably not to attract attention... But one of the most remarkable things about them is the fact that the cells or apartments into which they are divided are frequently so small that their inmates must have been of very short stature.
 
-![](/images/cook_header.jpg)
-‘Bag End’. Photo: [Christopher Wagner](https://www.flickr.com/photos/cwagner33/16412701584/in/photolist-r1konw-f1vrhZ-r9T7na-gSUGYy-fmydgt-oFniqm-qXCt91-eTWhEj-gQcA7v-dW2JCm-nkC5Az-nnouXK-dW2ydC-dTYvrS-qwwRR-rV3eUY-kwR9Kt-78p8QM-kz4UY4-meQa1g-AYZ1kw-7p1Q5Z-rNagXL-5Dke6x-qJhsWF-2bFs5Y-dBstuz-dBxTow-rXvrG5-o6h9pM-dW2C1A-33BvLu-bxVL-ooUeXN-dMMizo-gcABdA-gcxSvr-rXyuCP-rFbrFe-rPZsi5-rhsYc-5vDr9z-gLP9h9-4aysoZ-qFY2N4-rmbW7C-qX9auA-qXdT6B-qZsMSU-nJM8Qs). Creative commons license.
-
 But if Tolkien first stumbled upon a hobbit hole whilst reading Rhys’ lecture, it seems likely that his imagination drew also upon Buchan’s depiction of Britain’s natives as subhuman trolls. Certainly, John Buchan was one of Tolkien’s favourite authors. Of course, Bilbo’s hole under the hill is snug and comfortable; the encounter with a ‘hideous existence’ within a ‘hill refuge’ described by Buchan finds its counterpart, not at Bag End, but in that cave deep within the Misty Mountains into which had wormed his way, long ages ago, ‘a small slimy creature’ called Gollum.
+
+Header image: ‘Bag End’, [Christopher Wagner](https://www.flickr.com/photos/cwagner33/16412701584/in/photolist-r1konw-f1vrhZ-r9T7na-gSUGYy-fmydgt-oFniqm-qXCt91-eTWhEj-gQcA7v-dW2JCm-nkC5Az-nnouXK-dW2ydC-dTYvrS-qwwRR-rV3eUY-kwR9Kt-78p8QM-kz4UY4-meQa1g-AYZ1kw-7p1Q5Z-rNagXL-5Dke6x-qJhsWF-2bFs5Y-dBstuz-dBxTow-rXvrG5-o6h9pM-dW2C1A-33BvLu-bxVL-ooUeXN-dMMizo-gcABdA-gcxSvr-rXyuCP-rFbrFe-rPZsi5-rhsYc-5vDr9z-gLP9h9-4aysoZ-qFY2N4-rmbW7C-qX9auA-qXdT6B-qZsMSU-nJM8Qs). Creative commons license.
