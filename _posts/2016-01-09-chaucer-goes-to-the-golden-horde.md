@@ -1,11 +1,9 @@
 ---
 published: true
-author: Bryn Hammond
-mage: hammond_header.jpg
+author: bhammond
+image: hammond_header.jpg
+descrption: What did Chaucer know or care about a Tartar khan at Saray and his court?
 ---
-
-
-## Chaucer goes to the Golden Horde
 
 Chaucer set his _Squire’s Tale_ at ‘Sarray, in the land of Tartarye’ – that is, Saray, city of the Golden Horde Mongols, Jochi’s _ulus_, above the Black and Caspian Seas. What did Chaucer know or care about a Tartar khan at Saray and his court?
 
@@ -15,12 +13,12 @@ It used to be dismissed as a mishmash of wild marvels ‘for those who like that
 
 Chaucer, unfortunately, never set foot in Saray himself or indeed the Golden Horde. How did he come to be informed? In the latter 13th and the 14th centuries, near the end of which the _Squire’s Tale_ was written, the khans of Saray and the Italian merchant republics operated in a symbiosis, for an unprecedented age of trade. Genoese, above Venetians, won the major part of the Black Sea trade, and moved with confidence in the Mongol world. Genoa also outstripped other Italian cities in trade relations with England. Chaucer took part in a delegation to Genoa for trade discussions in 1372-3; subsequently he was employed in Customs for the port of London. It is agreed he had ample opportunity, in diplomatic and commercial circles, to hear from Genoese their tales of Saray.
 
-Recently Michael Murrin has written a great book on Trade and Romance: how romance, first turned by Marco Polo’s travels, changed from a ‘Celtic fantastic’ to a ‘marvelous real’ – set in Asia, and driven not by the interests of aristocratic fighting men, although these remain the heroes of romance, but by the adventurous activities of merchants. He posits a dual audience for such romances as the Squire’s Tale, both upper class and those who live by commerce. It is the case that fighting men didn’t visit Saray: merchants did (not that these merchants weren’t up for a fight). Merchants went further, and saw things undreamt of by knights. The popular romances followed in their steps – but doing this, they lost status, and were trivialised, too, in the scholarship.
+Recently Michael Murrin has written a great book on _Trade and Romance_: how romance, first turned by Marco Polo’s travels, changed from a ‘Celtic fantastic’ to a ‘marvelous real’ – set in Asia, and driven not by the interests of aristocratic fighting men, although these remain the heroes of romance, but by the adventurous activities of merchants. He posits a dual audience for such romances as the Squire’s Tale, both upper class and those who live by commerce. It is the case that fighting men didn’t visit Saray: merchants did (not that these merchants weren’t up for a fight). Merchants went further, and saw things undreamt of by knights. The popular romances followed in their steps – but doing this, they lost status, and were trivialised, too, in the scholarship.
 
-I’m fascinated by Chaucer’s trip of the imagination to Saray, and later adventures too of European romancers in the Mongol world. More to come on my main blog, [Amgalant](http://amgalant.com/).
+I’m fascinated by Chaucer’s trip of the imagination to Saray, and later adventures too of European romancers in the Mongol world. More to come on my own blog, [Amgalant](http://amgalant.com/).
 
 ##Main works consulted:
 
-Virgil Ciocîltan, _The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries_, translated by Samuel Willcocks, Leiden, Brill, 2012. 
+Virgil Ciocîltan, [_The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries_](http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries), translated by Samuel Willcocks, Leiden, Brill, 2012. 
 Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, _The Chaucer Review_, volume 22, issue 2, 1987, pp. 128-9.
-Michael Murrin, _Trade and Romance_, Chicago & London, University of Chicago Press, 2014.
+Michael Murrin, [_Trade and Romance_](http://press.uchicago.edu/ucp/books/book/chicago/T/bo16552205.html), Chicago & London, University of Chicago Press, 2014.
