@@ -10,7 +10,7 @@
 	<div class="titles">
 		<h3>{{ post.title }}</h3>
 		{% if post.description %}
-		<p>{{ post.description }}</p>
+		<p>{{ post.description | markdownify }}</p>
 		{% endif %}
 	</div>
 </a>
