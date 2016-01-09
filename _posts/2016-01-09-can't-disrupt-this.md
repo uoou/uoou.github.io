@@ -5,7 +5,7 @@ author: Jason Schmitt
 
 
 
-## Can’t Disrupt This: Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
+## Elsevier and the 25.2 Billion Dollar A Year Academic Publishing Business
 
 Twenty years ago ([December 18, 1995](http://www.scribd.com/doc/292346391/Forbes-Elsevier-1995)), Forbes predicted academic publisher Elsevier’s relevancy and life in the digital age to be short lived. In an article entitled “The internet’s first victim,” journalist John Hayes highlights the technological imperative coming toward the academic publisher’s profit margin with the growing internet culture and said, “Cost-cutting librarians and computer-literate professors are bypassing academic journals — bad news for Elsevier.” After publication of the article, investors seemed to heed Hayes’s rationale for Elsevier’s impeding demise. Elsevier stock fell 7% in two days to $26 a share.
 
