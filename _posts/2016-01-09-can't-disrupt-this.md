@@ -1,6 +1,7 @@
 ---
 published: true
-author: Jason Schmitt
+author: jschmitt
+descrption: blah blah
 ---
 
 
