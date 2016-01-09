@@ -19,6 +19,6 @@ I’m fascinated by Chaucer’s trip of the imagination to Saray, and later adve
 
 ##Main works consulted:
 
-Virgil Ciocîltan, [_The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries_](http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries), translated by Samuel Willcocks, Leiden, Brill, 2012. 
-Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, _The Chaucer Review_, volume 22, issue 2, 1987, pp. 128-9.
+Virgil Ciocîltan, [_The Mongols and the Black Sea Trade in the Thirteenth and Fourteenth Centuries_](http://www.brill.com/mongols-and-black-sea-trade-thirteenth-and-fourteenth-centuries), translated by Samuel Willcocks, Leiden, Brill, 2012.  
+Carmel Jordan, ‘Soviet Archeology and the Setting of the Squire’s Tale’, _The Chaucer Review_, volume 22, issue 2, 1987, pp. 128-9.  
 Michael Murrin, [_Trade and Romance_](http://press.uchicago.edu/ucp/books/book/chicago/T/bo16552205.html), Chicago & London, University of Chicago Press, 2014.
