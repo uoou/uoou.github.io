@@ -2,9 +2,8 @@
 published: true
 author: bhammond
 image: hammond_header.jpg
-descrption: What did Chaucer know or care about a Tartar khan at Saray and his court?
+description: "What did Chaucer know or care about a Tartar khan at Saray and his court?"
 ---
-
 Chaucer set his _Squire’s Tale_ at ‘Sarray, in the land of Tartarye’ – that is, Saray, city of the Golden Horde Mongols, Jochi’s _ulus_, above the Black and Caspian Seas. What did Chaucer know or care about a Tartar khan at Saray and his court?
 
 The _Squire’s Tale_, as a romance, has been despised in the past; people have said it’s unfinished either because Chaucer had too much discrimination to go on or because the other Canterbury pilgrims stopped the squire’s drivel. You can [read it yourself](http://www.librarius.com/cantales.htm) and judge. If you like medieval romances (adventure tales, with fantastic happenings, errant knights and wandering plots), there’s nothing wrong with it. It is unfinished, to the point that it’s only just begun. We are left with the khan’s daughter, gifted with a ‘quaint ring’ that lets her understand the talk of birds, having listened to the confession of a she-falcon, intent on self-harm, who has been seduced and left for a rival; the rest of the court are still asleep, after a grand feast whereat was given to the khan a flying horse of brass, that transports you anywhere when you tweak its ears. Nobody knows what happened next.

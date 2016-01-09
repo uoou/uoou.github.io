@@ -187,7 +187,6 @@ article {
 		width: 100%;
 		height: 100%;
 		background-size: cover;
-		//background-position: center center;
 		transition: all .4s ease-in-out;
 		transform: scale(1,1);
 		z-index: -1;
@@ -209,26 +208,29 @@ article {
 				@extend .textshadow;
 			}
 		}
-		h3, p {
+		h3, div.destext {
 			color: #fff;
 			margin: 0 0 0 0;
 		}
-		p {
-			display: block;
+		div.destext {
+			display: inline-block;
 			font-size: 0.9em;
-			padding: 1em;
+			padding: 0.5em 1em;
 			line-height: 1.2em;
-			margin: 1em 2em 1em 0;
+			margin: 0 2em 0 0;
 			background-color: rgba(0,0,0,0.8);
 		}
-
+		p {
+			margin: 0;
+			padding: 0.5em 0;
+		}
 	}
 	&#post {
 		.headingcont {
 			div.titles {
 				margin: 20em 0 1.6em 2em;
 			}
-			p {
+			div.destext {
 				display: none;
 			}
 		}
@@ -497,7 +499,7 @@ ul#share {
 				font-size: 2em;
 				line-height: 1em;
 			}
-			p {
+			div.destext {
 				font-size: 0.8em;
 			}
 		}
