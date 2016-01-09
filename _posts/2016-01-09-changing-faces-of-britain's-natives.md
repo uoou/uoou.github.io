@@ -2,7 +2,7 @@
 published: true
 author: sjcook
 image: cook_header.jpg
-description: Gollum, Bilbo Baggins and Edwardian prehistoric studies.
+description: How Gollum and Bilbo Baggins emerged out of the late-Victorian discovery of prehistory.
 ---
 
 
