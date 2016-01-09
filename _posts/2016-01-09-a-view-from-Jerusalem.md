@@ -1,6 +1,6 @@
 ---
 published: true
-author: Guy Stroumsa
+author: gstroumsa
 image: zeevveez_header.jpg
 ---
 
