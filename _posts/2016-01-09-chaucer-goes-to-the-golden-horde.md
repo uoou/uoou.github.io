@@ -1,8 +1,9 @@
 ---
-published: false
+published: true
 author: Bryn Hammond
 mage: hammond_header.jpg
 ---
+
 
 ## Chaucer goes to the Golden Horde
 
