@@ -142,19 +142,22 @@ article {
     article .headingcont div.titles {
       line-height: 3em;
       margin: 8.3em 0 0.8em 2em; }
-    article .headingcont h3, article .headingcont p {
+    article .headingcont h3, article .headingcont div.destext {
       color: #fff;
       margin: 0 0 0 0; }
-    article .headingcont p {
+    article .headingcont div.destext {
       display: block;
       font-size: 0.9em;
-      padding: 1em;
+      padding: 0.5em 1em;
       line-height: 1.2em;
-      margin: 1em 2em 1em 0;
+      margin: 0 2em 0 0;
       background-color: rgba(0, 0, 0, 0.8); }
+    article .headingcont p {
+      margin: 0;
+      padding: 0.5em 0; }
   article#post .headingcont div.titles {
     margin: 20em 0 1.6em 2em; }
-  article#post .headingcont p {
+  article#post .headingcont div.destext {
     display: none; }
 
 div#postcontent {
@@ -373,7 +376,7 @@ ul#share {
   article .headingcont h3 {
     font-size: 2em;
     line-height: 1em; }
-  article .headingcont p {
+  article .headingcont div.destext {
     font-size: 0.8em; }
 
   blockquote, code {
