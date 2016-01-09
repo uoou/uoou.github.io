@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 
 _An abridged version of a talk by Guy Stroumsa at a conference held in his honour in Jerusalem_:
