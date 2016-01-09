@@ -1,5 +1,7 @@
 ---
 published: true
+author: Guy Stroumsa
+image: zeevveez_header.jpg
 ---
 
 _An abridged version of a talk by Guy Stroumsa at a conference held in his honour in Jerusalem_:
