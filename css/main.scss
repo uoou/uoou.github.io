@@ -190,6 +190,7 @@ article {
 		transition: all .4s ease-in-out;
 		transform: scale(1,1);
 		z-index: -1;
+		//filter: grayscale(50%);
 	}
 	.headingcont {
 		display: block;
@@ -199,6 +200,7 @@ article {
 		height: 100%;
 		&:hover > div.featureimg {
 			transform: scale(1.1,1.1);
+			//filter: grayscale(0%);
 		}
 		div.titles {
 			line-height: 3em;
@@ -217,7 +219,7 @@ article {
 			font-size: 0.9em;
 			padding: 0.5em 1em;
 			line-height: 1.2em;
-			margin: 0 2em 0 0;
+			margin: 0.5em 2em 0 0;
 			color: $main-text-col;
 			font-size: 1em;
 			background-color: rgba(255,255,255,0.9);
@@ -301,11 +303,13 @@ div#comments {
 		transition: all .4s ease-in-out;
 		transform: scale(1,1);
 		opacity: 0.8;
+		//filter: grayscale(10%);
 		z-index: -1;
 	}
 	&:hover > div.bg {
 		transform: scale(1.1,1.1);
 		opacity: 1;
+		//filter: grayscale(0%);
 	}
 }
 #back:hover, #forth:hover {
