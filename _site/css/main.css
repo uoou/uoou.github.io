@@ -76,7 +76,8 @@ header {
       margin-right: 0.25em;
       width: 0.8em;
       height: 0.8em;
-      background-color: #0099ab; }
+      background-color: #0099ab;
+      transition: .2s ease-in-out; }
   header nav {
     text-align: right; }
     header nav ul {
@@ -91,16 +92,20 @@ header {
           background-color: #ccc;
           width: 2em;
           height: 2em;
+          border-radius: 0%;
           transition: .2s; }
         header nav ul li a:hover > img {
-          background-color: #0099ab; }
+          background-color: #0099ab;
+          border-radius: 50%; }
       header nav ul li#rglink img {
         padding: 0;
         width: 2.8em;
         height: 2.8em;
-        opacity: 0.8; }
+        opacity: 0.7;
+        border-radius: 0; }
       header nav ul li#rglink a:hover > img {
-        opacity: 1; }
+        opacity: 1;
+        border-radius: 0; }
 
 section#pagelist ul#pages {
   list-style: none;
@@ -303,8 +308,9 @@ ul#share {
     width: 3em;
     height: 3em;
     opacity: 0.8;
+    border-radius: 0;
     margin-right: 0.5em;
-    transition: .3s; }
+    transition: .2s ease-in-out; }
     ul#share a#tw {
       background-color: #55acee;
       border: 0.5em solid #55acee;
@@ -318,7 +324,8 @@ ul#share {
       border: 0.5em solid #dd4b39;
       background-image: url("/images/gplus_icon.png"); }
     ul#share a:hover {
-      opacity: 1; }
+      opacity: 1;
+      border-radius: 50%; }
 
 @media screen and (max-width: 1600px) {
   #leftcontainer {
