@@ -8,20 +8,17 @@ description: Gollum and Bilbo Baggins emerge out of Edwardian preshistoric schol
 
 Late-Victorian histories of the English began in the woods of Schleswig, before the migration to the British Isles. But around 1900 historians decided that English history proper should begin with the foundation of the modern state in the fourteenth century. What came before was deemed not only barbarous but insufficiently documented. The story of ancient Britain, and of the peoples who settled it, was left to a motley crew of archaeologists, folklorists, philologists and, increasingly, writers of fiction.
 
-![](/images/Cook1.jpg)
-Picture from: [Our Island Story. A History of England for Boys and Girls](https://archive.org/details/ourislandstoryhi00marsuoft), by H.E. Marshall, illustration by A.S. Forrester (London, 1905).
+{% include img.html image="Cook1.jpg" caption="Picture from: [Our Island Story. A History of England for Boys and Girls](https://archive.org/details/ourislandstoryhi00marsuoft), by H.E. Marshall, illustration by A.S. Forrester (London, 1905)." %}
 
 In the first section of my Rounded Globe essay on [_J.R.R. Tolkien's Lost English Mythology_](http://roundedglobe.com/book/54f6fe79648a590459746be1/J.R.R.%20Tolkien's%20Lost%20English%20Mythology) I've discussed some facets of the early twentieth-century search for the ancient English; in this post I track the changing face of Britain’s natives. The picture above depicts a sort of ancient ‘close encounters’ moment: native Britons watch the arrival of the Roman fleet of Julius Caesar. This captures the conventional Victorian image of the Romans bringing civilization to a savage island.
 
 Compare the primitive Britons above, barefoot and attired in rude animal skins, with the blond giants below. Although this second picture was published earlier, it embodies a newer kind of historical thinking. These iron-age warriors are still Britons, but they are no longer natives.
 
-![](/images/Cook2.jpg)
-Picture from: [Beric the Briton. A Story of the Roman Invasion](https://archive.org/details/bericthebriton00hentrich), by G.A. Henty, illustrator unknown (London, 1893).
+{% include img.html image="Cook2.jpg" caption="Picture from: [Beric the Briton. A Story of the Roman Invasion](https://archive.org/details/bericthebriton00hentrich), by G.A. Henty, illustrator unknown (London, 1893)." %}
 
 For much of the nineteenth century it was assumed that Britain had been settled for only a few generations before the coming of the Romans. But this view became untenable after 1877 and the publication of Canon William Greenwell’s _British Barrows_. From his meticulous and extensive archaeological excavations, Greenwell drew the conclusion that prehistoric long barrows were not only older than round barrows, but had been built by a different people.
 
-![](/images/Cook3.jpg)
-Image from: [British Barrows. A record of the examination of the sepulchral mounds in various parts of England](https://archive.org/details/britishbarrowsre00gree), by W. Greenwell (Oxford, 1877).
+{% include img.html image="Cook3.jpg" caption="Image from: [British Barrows. A record of the examination of the sepulchral mounds in various parts of England](https://archive.org/details/britishbarrowsre00gree), by W. Greenwell (Oxford, 1877)." %}
 
 After Greenwell it was generally accepted that the Celtic-speaking Britons, the supposed makers of the round barrows, had intruded upon an earlier population. The result was the rehabilitation of the Britons: no longer the passive victims of history, conquered and pushed aside by more vigorous peoples, the Britons became invading immigrants in their own right – ancient barbarians, maybe, yet virtuous and worthy ancestors for the modern British. In the caption of the second picture above the leading Briton declares: ‘Tell Suetonius that we scorn his mercy and will die as we have lived, free men.’
 
@@ -29,8 +26,7 @@ Who, then, were the newly discovered natives? With precious little archaeologica
 
 In 1900 John Rhys, the first Oxford Professor of Celtic, delivered the presidential address to the Anthropology section of the [British Association for the Advancement of Science](https://archive.org/details/reportofbritisha00scie). His chosen theme was the value of folk tales for the study of the ancient past, and he argued that behind the ‘rabble of divinities and demons’ who disport themselves in Celtic folklore it is possible to discern the succession of peoples who have inhabited the British Isles. Welsh fairy stories, according to Rhys, contained dim memories of the native population encountered by the first Celtic-speaking intruders. The real ‘little people’, he inferred, had been ‘a small swarthy population of mound-dwellers, of an unwarlike disposition... and living underground’.
  
-![](/images/Cook4.jpg)
-Picture from the cover of [John Buchan’s The Watcher by the Threshold](https://archive.org/details/watcherbythresho00buchuoft) (London, 1902).
+{% include img.html image="Cook4.jpg" caption="Picture from the cover of [John Buchan’s The Watcher by the Threshold](https://archive.org/details/watcherbythresho00buchuoft) (London, 1902)." %}
 
 Rhys’ ideas seem to have sparked the imagination of a couple of young minds. John Buchan went up to Oxford in 1895. His short story ‘No-Man’s-Land’, which appeared in print seven years later, tells the dreadful story of an Oxford scholar of Northern Antiquities (like Rhys perhaps, or one of his students), who holidays in the remote Highlands of Scotland, where he encounters – and is  taken captive by – ‘the Hidden People’:
 

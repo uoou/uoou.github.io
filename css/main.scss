@@ -4,8 +4,10 @@
 $font-stack:	Ubuntu, Calibri, sans-serif;
 $main-text-col: #555;
 $main-bg-col:	#fff;
-$image-container-bg-col: #333;
-$image-caption-col: #bbb;
+//$image-container-bg-col: #333;
+//$image-caption-col: #bbb;
+$image-container-bg-col: #eee;
+$image-caption-col: $main-text-col;
 $header-font:	Univers, Frutiger, "Frutiger Linotype", "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Ubuntu, Geneva, "Helvetica Neue", Helvetica, Calibri,  sans-serif;
 $heading-col:	#555;
 $title-col:	#ccc;
@@ -251,17 +253,27 @@ div#postcontent {
 		display: block;
 		margin: 2em auto;
 	}
-	.screenshot {
+	.illustration {
+		padding: 0.5em;
+		//width: 1%;
+		display: table;
 		background-color: $image-container-bg-col;
-		margin: 2em 0 2em 0;
+		margin: 2em auto;
 		img {
 			margin: 0 auto;
 			width: 100%;
 		}
-		.caption {
+		span {
+			display: table-caption;
+			caption-side: bottom;
+			background-color: $image-container-bg-col;
 			color: $image-caption-col;
 			font-size: 0.8em;
-			padding: 0.7em;
+			padding: 0 1em 0 1em;
+			p {
+				line-height: 1.2em;
+				margin-top: 0;
+			}
 		}
 	}
 	h2 {

@@ -1,6 +1,8 @@
-<div class="screenshot">
+<div class="illustration">
 <a href="{{ site.baseurl }}{{ site.imagedir }}{{ include.image }}"><img src="{{ site.baseurl }}{{ site.imagedir }}{{ include.image }}" /></a>
 {% if include.caption %}
-<div class="caption">{{ include.caption }}</div>
+<span>
+	{{ include.caption | markdownify }}
+</span>
 {% endif %}
 </div>

@@ -4,7 +4,7 @@
  <title>Rounded Globe</title>
  <link href="http://roundedglobe.github.io/blog/atom.xml" rel="self"/>
  <link href="http://roundedglobe.github.io/blog/"/>
- <updated>2016-01-10T09:37:15+00:00</updated>
+ <updated>2016-01-10T11:29:11+00:00</updated>
  <id>http://roundedglobe.github.io/blog</id>
  
  <author>
@@ -46,20 +46,41 @@ Michael Murrin, &lt;a href=&quot;http://press.uchicago.edu/ucp/books/book/chicag
    <id>http://roundedglobe.github.io/blog/changing-faces-of-britain's-natives</id>
    <content type="html">&lt;p&gt;Late-Victorian histories of the English began in the woods of Schleswig, before the migration to the British Isles. But around 1900 historians decided that English history proper should begin with the foundation of the modern state in the fourteenth century. What came before was deemed not only barbarous but insufficiently documented. The story of ancient Britain, and of the peoples who settled it, was left to a motley crew of archaeologists, folklorists, philologists and, increasingly, writers of fiction.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Cook1.jpg&quot; alt=&quot;&quot;&gt;
-Picture from: &lt;a href=&quot;https://archive.org/details/ourislandstoryhi00marsuoft&quot;&gt;Our Island Story. A History of England for Boys and Girls&lt;/a&gt;, by H.E. Marshall, illustration by A.S. Forrester (London, 1905).&lt;/p&gt;
+&lt;div class=&quot;illustration&quot;&gt;
+&lt;a href=&quot;/images/Cook1.jpg&quot;&gt;&lt;img src=&quot;/images/Cook1.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+    &lt;p&gt;Picture from: &lt;a href=&quot;https://archive.org/details/ourislandstoryhi00marsuoft&quot;&gt;Our Island Story. A History of England for Boys and Girls&lt;/a&gt;, by H.E. Marshall, illustration by A.S. Forrester (London, 1905).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;In the first section of my Rounded Globe essay on &lt;a href=&quot;http://roundedglobe.com/book/54f6fe79648a590459746be1/J.R.R.%20Tolkien&amp;#x27;s%20Lost%20English%20Mythology&quot;&gt;&lt;em&gt;J.R.R. Tolkien&amp;#39;s Lost English Mythology&lt;/em&gt;&lt;/a&gt; I&amp;#39;ve discussed some facets of the early twentieth-century search for the ancient English; in this post I track the changing face of Britain’s natives. The picture above depicts a sort of ancient ‘close encounters’ moment: native Britons watch the arrival of the Roman fleet of Julius Caesar. This captures the conventional Victorian image of the Romans bringing civilization to a savage island.&lt;/p&gt;
 
 &lt;p&gt;Compare the primitive Britons above, barefoot and attired in rude animal skins, with the blond giants below. Although this second picture was published earlier, it embodies a newer kind of historical thinking. These iron-age warriors are still Britons, but they are no longer natives.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Cook2.jpg&quot; alt=&quot;&quot;&gt;
-Picture from: &lt;a href=&quot;https://archive.org/details/bericthebriton00hentrich&quot;&gt;Beric the Briton. A Story of the Roman Invasion&lt;/a&gt;, by G.A. Henty, illustrator unknown (London, 1893).&lt;/p&gt;
+&lt;div class=&quot;illustration&quot;&gt;
+&lt;a href=&quot;/images/Cook2.jpg&quot;&gt;&lt;img src=&quot;/images/Cook2.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+    &lt;p&gt;Picture from: &lt;a href=&quot;https://archive.org/details/bericthebriton00hentrich&quot;&gt;Beric the Briton. A Story of the Roman Invasion&lt;/a&gt;, by G.A. Henty, illustrator unknown (London, 1893).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;For much of the nineteenth century it was assumed that Britain had been settled for only a few generations before the coming of the Romans. But this view became untenable after 1877 and the publication of Canon William Greenwell’s &lt;em&gt;British Barrows&lt;/em&gt;. From his meticulous and extensive archaeological excavations, Greenwell drew the conclusion that prehistoric long barrows were not only older than round barrows, but had been built by a different people.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Cook3.jpg&quot; alt=&quot;&quot;&gt;
-Image from: &lt;a href=&quot;https://archive.org/details/britishbarrowsre00gree&quot;&gt;British Barrows. A record of the examination of the sepulchral mounds in various parts of England&lt;/a&gt;, by W. Greenwell (Oxford, 1877).&lt;/p&gt;
+&lt;div class=&quot;illustration&quot;&gt;
+&lt;a href=&quot;/images/Cook3.jpg&quot;&gt;&lt;img src=&quot;/images/Cook3.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+    &lt;p&gt;Image from: &lt;a href=&quot;https://archive.org/details/britishbarrowsre00gree&quot;&gt;British Barrows. A record of the examination of the sepulchral mounds in various parts of England&lt;/a&gt;, by W. Greenwell (Oxford, 1877).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;After Greenwell it was generally accepted that the Celtic-speaking Britons, the supposed makers of the round barrows, had intruded upon an earlier population. The result was the rehabilitation of the Britons: no longer the passive victims of history, conquered and pushed aside by more vigorous peoples, the Britons became invading immigrants in their own right – ancient barbarians, maybe, yet virtuous and worthy ancestors for the modern British. In the caption of the second picture above the leading Briton declares: ‘Tell Suetonius that we scorn his mercy and will die as we have lived, free men.’&lt;/p&gt;
 
@@ -67,8 +88,15 @@ Image from: &lt;a href=&quot;https://archive.org/details/britishbarrowsre00gree&
 
 &lt;p&gt;In 1900 John Rhys, the first Oxford Professor of Celtic, delivered the presidential address to the Anthropology section of the &lt;a href=&quot;https://archive.org/details/reportofbritisha00scie&quot;&gt;British Association for the Advancement of Science&lt;/a&gt;. His chosen theme was the value of folk tales for the study of the ancient past, and he argued that behind the ‘rabble of divinities and demons’ who disport themselves in Celtic folklore it is possible to discern the succession of peoples who have inhabited the British Isles. Welsh fairy stories, according to Rhys, contained dim memories of the native population encountered by the first Celtic-speaking intruders. The real ‘little people’, he inferred, had been ‘a small swarthy population of mound-dwellers, of an unwarlike disposition... and living underground’.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/Cook4.jpg&quot; alt=&quot;&quot;&gt;
-Picture from the cover of &lt;a href=&quot;https://archive.org/details/watcherbythresho00buchuoft&quot;&gt;John Buchan’s The Watcher by the Threshold&lt;/a&gt; (London, 1902).&lt;/p&gt;
+&lt;div class=&quot;illustration&quot;&gt;
+&lt;a href=&quot;/images/Cook4.jpg&quot;&gt;&lt;img src=&quot;/images/Cook4.jpg&quot; /&gt;&lt;/a&gt;
+
+&lt;span&gt;
+    &lt;p&gt;Picture from the cover of &lt;a href=&quot;https://archive.org/details/watcherbythresho00buchuoft&quot;&gt;John Buchan’s The Watcher by the Threshold&lt;/a&gt; (London, 1902).&lt;/p&gt;
+
+&lt;/span&gt;
+
+&lt;/div&gt;
 
 &lt;p&gt;Rhys’ ideas seem to have sparked the imagination of a couple of young minds. John Buchan went up to Oxford in 1895. His short story ‘No-Man’s-Land’, which appeared in print seven years later, tells the dreadful story of an Oxford scholar of Northern Antiquities (like Rhys perhaps, or one of his students), who holidays in the remote Highlands of Scotland, where he encounters – and is  taken captive by – ‘the Hidden People’:&lt;/p&gt;
 
