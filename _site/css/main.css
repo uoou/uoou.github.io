@@ -55,9 +55,9 @@ h3 {
 #comments, .caption {
   font-size: 0.9em; }
 
-.excerpt p, .excerpt li, #postcontent p, #postcontent li {
+.excerpt p, .excerpt li, #postcontent p, #postcontent li, section#bio p, section#bio li {
   font-size: 0.9em;
-  line-height: 1.4em; }
+  line-height: 1.6em; }
 
 header {
   margin: 0 0 3.5em 0; }
