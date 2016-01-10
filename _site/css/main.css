@@ -3,7 +3,7 @@
   display: inline-block; }
 
 .textshadow, article .headingcont div.titles h3 {
-  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5); }
+  text-shadow: 0 0 7px rgba(0, 0, 0, 0.9); }
 
 body {
   font-family: Ubuntu, Calibri, sans-serif;
