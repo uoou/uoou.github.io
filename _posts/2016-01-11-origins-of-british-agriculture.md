@@ -27,3 +27,5 @@ MJM.
 References
 
 Stevens, C. & Fuller, D. (2012). 'Did Neolithic farming fail? The case for a Bronze Age agricultural revolution in the British Isles', _Antiquity_ 86, 707-722.
+
+Image credit: 'Stonehenge', [Ianan](https://www.flickr.com/photos/ianan/4909120122/in/photolist-8tNwo7-fpPF42-9XAHSk-8YhAZo-dMd56j-dM7up2-9DpsQM-6ZVLm4-pmC8dg-3qseBd-4zbFfQ-nLnqdz-6igADe-4p5dAH-68NM4k-aaNBCk-dZ21Bu-obn5TU-jHGKT5-fq4X1w-5immPU-xJHgBa-63Eu64-6yao4i-8Ukdtd-pmkXAP-7UftvE-5u9Vfd-8cb1Ya-jHHsno-aZ7hGt-aZ7hm2-jHHAPJ-jHEydM-3qnQtD-aZ7hbP-aZ7gw2-fpC2FA-aZ7ffi-aZ7f6i-aZ7fSX-aZ7gbP-8Ukc4E-j7d4MR-6yBdaS-uTXcur-dxVdYM-5VhP5Y-bvswrs-fGAr81). Creative commons license.
