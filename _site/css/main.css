@@ -173,6 +173,7 @@ div#postcontent {
     display: block;
     margin: 2em auto; }
   div#postcontent .illustration {
+    clear: both;
     padding: 0.5em;
     display: table;
     background-color: #eee;
@@ -190,6 +191,22 @@ div#postcontent {
       div#postcontent .illustration span p {
         line-height: 1.2em;
         margin-top: 0; }
+    div#postcontent .illustration.smallimg img, div#postcontent .illustration.smallimg span {
+      width: 300px; }
+    div#postcontent .illustration.smallimg span {
+      padding: 0; }
+      div#postcontent .illustration.smallimg span p {
+        margin-top: 0.5em;
+        margin-bottom: 0; }
+    div#postcontent .illustration.left, div#postcontent .illustration.right {
+      display: inline;
+      margin: 0 0 1em 0; }
+    div#postcontent .illustration.left {
+      float: left;
+      margin-right: 1em; }
+    div#postcontent .illustration.right {
+      float: right;
+      margin-left: 1em; }
   div#postcontent h2 {
     margin-top: 3em; }
 

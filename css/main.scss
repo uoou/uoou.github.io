@@ -254,6 +254,7 @@ div#postcontent {
 		margin: 2em auto;
 	}
 	.illustration {
+		clear: both;
 		padding: 0.5em;
 		//width: 1%;
 		display: table;
@@ -274,6 +275,30 @@ div#postcontent {
 				line-height: 1.2em;
 				margin-top: 0;
 			}
+		}
+		&.smallimg {
+			img, span {
+				width: 300px;
+			}
+			span {
+				padding: 0;
+				p {
+					margin-top: 0.5em;
+					margin-bottom: 0;
+				}
+			}
+		}
+		&.left, &.right {
+			display: inline;
+			margin: 0 0 1em 0;
+		}
+		&.left {
+			float: left;
+			margin-right: 1em;
+		}
+		&.right {
+			float: right;
+			margin-left: 1em;
 		}
 	}
 	h2 {

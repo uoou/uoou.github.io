@@ -1,4 +1,5 @@
-<div class="illustration">
+<div class="illustration{% if include.small %} smallimg{% endif %}{% if include.align %} {{ include.align }}{% endif %}">
+
 {% if include.image contains "http://" %}
 {% assign imgdir = "" %}
 {% assign baseurl = "" %}
