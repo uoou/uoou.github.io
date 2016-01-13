@@ -1,5 +1,12 @@
 <div class="illustration">
-<a href="{{ site.baseurl }}{{ site.imagedir }}{{ include.image }}"><img src="{{ site.baseurl }}{{ site.imagedir }}{{ include.image }}" /></a>
+{% if include.image contains "http://" %}
+{% assign imgdir = "" %}
+{% assign baseurl = "" %}
+{% else %}
+{% assign imgdir = site.imagedir %}
+{% assign baseurl = site.baseurl %}
+{% endif %}
+<a href="{{ baseurl }}{{ imgdir }}{{ include.image }}"><img src="{{ baseurl }}{{ imgdir }}{{ include.image }}" /></a>
 {% if include.caption %}
 <span>
 	{{ include.caption | markdownify }}
