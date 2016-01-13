@@ -201,7 +201,7 @@ div#postcontent {
         margin-bottom: 0; }
     div#postcontent .illustration.left, div#postcontent .illustration.right {
       display: inline;
-      margin: 0 0 1em 0; }
+      margin: 0.5em 0 0.5em 0; }
     div#postcontent .illustration.left {
       float: left;
       margin-right: 1em; }
