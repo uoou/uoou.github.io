@@ -256,10 +256,9 @@ div#postcontent {
 	.illustration {
 		clear: both;
 		padding: 0.5em;
-		//width: 1%;
 		display: table;
 		background-color: $image-container-bg-col;
-		margin: 2em auto;
+		margin: 3em auto;
 		img {
 			margin: 0 auto;
 			width: 100%;
@@ -274,24 +273,17 @@ div#postcontent {
 			p {
 				line-height: 1.2em;
 				margin-top: 0;
+				text-align: left;
 			}
 		}
 		&.smallimg {
 			img {
 				max-width: 300px;
 			}
-			span {
-				width: 100%;
-				padding: 0;
-				p {
-					margin-top: 0.5em;
-					margin-bottom: 0;
-				}
-			}
 		}
 		&.left, &.right {
-			display: inline;
-			margin: 0.5em 0 0.5em 0;
+			display: inline-table;
+			margin: 0.3em 0 0.5em 0;
 		}
 		&.left {
 			float: left;
