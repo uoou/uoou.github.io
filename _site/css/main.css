@@ -191,9 +191,10 @@ div#postcontent {
       div#postcontent .illustration span p {
         line-height: 1.2em;
         margin-top: 0; }
-    div#postcontent .illustration.smallimg img, div#postcontent .illustration.smallimg span {
-      width: 300px; }
+    div#postcontent .illustration.smallimg img {
+      max-width: 300px; }
     div#postcontent .illustration.smallimg span {
+      width: 100%;
       padding: 0; }
       div#postcontent .illustration.smallimg span p {
         margin-top: 0.5em;

@@ -277,10 +277,11 @@ div#postcontent {
 			}
 		}
 		&.smallimg {
-			img, span {
-				width: 300px;
+			img {
+				max-width: 300px;
 			}
 			span {
+				width: 100%;
 				padding: 0;
 				p {
 					margin-top: 0.5em;
