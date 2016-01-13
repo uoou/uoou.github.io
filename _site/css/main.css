@@ -412,3 +412,8 @@ ul#share {
   blockquote, code {
     margin-left: 0;
     margin-right: 0; } }
+@media screen and (max-width: 500px) {
+  div#postcontent .illustration.left, div#postcontent .illustration.right {
+    display: table;
+    float: none;
+    margin: 3em auto; } }

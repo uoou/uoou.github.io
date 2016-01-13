@@ -552,3 +552,14 @@ ul#share {
 		margin-right: 0;
 	}
 }
+@media screen and (max-width: 500px) {
+	div#postcontent {
+		.illustration {
+			&.left, &.right {
+				display: table;
+				float: none;
+				margin: 3em auto;
+			}
+		}
+	}
+}
